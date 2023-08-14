@@ -1,0 +1,21 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore IDE-specific files and directories
+.vscode/
+.idea/
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+
+# Ignore log files
+*.log
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore macOS-specific files
+.DS_Store
